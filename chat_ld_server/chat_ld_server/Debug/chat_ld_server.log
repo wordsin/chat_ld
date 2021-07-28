@@ -1,0 +1,4 @@
+﻿  Server.cpp
+G:\workspace\C++\chat_ld\chat_ld_server\chat_ld_server\Server.cpp(62,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\C++\chat_ld\chat_ld_server\chat_ld_server\Server.cpp(63,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  chat_ld_server.vcxproj -> G:\workspace\C++\chat_ld\chat_ld_server\Debug\chat_ld_server.exe

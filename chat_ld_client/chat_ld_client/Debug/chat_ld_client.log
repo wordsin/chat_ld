@@ -1,0 +1,6 @@
+﻿  Client.cpp
+G:\workspace\C++\chat_ld\chat_ld_client\chat_ld_client\Client.cpp(34,28): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+G:\workspace\C++\chat_ld\chat_ld_client\chat_ld_client\Client.cpp(48,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\C++\chat_ld\chat_ld_client\chat_ld_client\Client.cpp(49,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\workspace\C++\chat_ld\chat_ld_client\chat_ld_client\Client.cpp(50,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  chat_ld_client.vcxproj -> G:\workspace\C++\chat_ld\chat_ld_client\Debug\chat_ld_client.exe
